@@ -1,2 +1,2 @@
-# Project-11-Done
-Man walking down street collecting treasures avoiding word (not full window tho).
+# Projeto-11-Done
+Man walking down street collecting treasures avoiding sword (not full window tho).
